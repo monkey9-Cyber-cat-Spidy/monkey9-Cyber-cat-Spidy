@@ -51,9 +51,11 @@
 ## 📫 Let's Connect  
 
 💻 **GitHub:** https://github.com/monkey9-Cyber-cat-Spidy
+
 🔗 **LinkedIn:** www.linkedin.com/in/kvsmanikanta
-🌐 **Portfolio:** https://chatbot-info-by-
-monkey.vercel.app/
+
+🌐 **Portfolio:** https://chatbot-info-by-monkey.vercel.app/
+
 💬 **Interests:** Web Development, Cybersecurity, Open Source, UI/UX, Android Application Development 
 
 ---
