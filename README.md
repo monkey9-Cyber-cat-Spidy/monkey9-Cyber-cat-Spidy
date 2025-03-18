@@ -52,7 +52,6 @@
 
 💻 **GitHub:** https://github.com/monkey9-Cyber-cat-Spidy
 🔗 **LinkedIn:** www.linkedin.com/in/kvsmanikanta
-📧 **Email:** (Add your email)  
 🌐 **Portfolio:** https://chatbot-info-by-
 monkey.vercel.app/
 💬 **Interests:** Web Development, Cybersecurity, Open Source, UI/UX, Android Application Development 
