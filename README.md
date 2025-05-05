@@ -6,10 +6,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFE4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Web+Developer+%7C+Cybersecurity+Enthusiast+%7C+Tech+Explorer;Building+the+future+one+line+of+code+at+a+time" alt="Typing SVG" />
+<p align="center" style="width: 100%; overflow: hidden; text-align: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FFE4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Web+Developer+%7C+Cybersecurity+Enthusiast+%7C+Tech+Explorer;Building+the+future+one+line+of+code+at+a+time" alt="Typing SVG" style="max-width: 100%;"/>
 </p>
-
 ---
 
 <div style="background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; color: white; overflow: auto;">
