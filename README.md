@@ -9,6 +9,9 @@
 <p align="center" style="width: 100%; overflow: hidden; text-align: center;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&pause=1000&color=00FFE4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=Web+Developer+%7C+Cybersecurity+Enthusiast+%7C;" alt="Typing SVG" style="max-width: 20%;" />
 </p>
+<p align="center" style="width: 100%; overflow: hidden; text-align: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&pause=1000&color=00FFE4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=Android+Developer+%7C+UI/UX+%7C;" alt="Typing SVG" style="max-width: 20%;" />
+</p>
 ---
 
 <div style="background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px; color: white; overflow: auto;">
