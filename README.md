@@ -50,7 +50,8 @@ Hey there! I'm **Kuncham Venkata Satya Manikanta**, a passionate **web developer
 
 - **Cybersecurity**  
   ![Security](https://img.shields.io/badge/Security-D14836?style=for-the-badge&logo=hackthebox&logoColor=white)
-  Secure Development | Digital Privacy
+  ![Secure Development](https://img.shields.io/badge/Secure%20Development-0A0A0A?style=for-the-badge&logo=security&logoColor=white)  
+  ![Digital Privacy](https://img.shields.io/badge/Digital%20Privacy-800000?style=for-the-badge&logo=tor-project&logoColor=white)
 
 - **Tools**  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
