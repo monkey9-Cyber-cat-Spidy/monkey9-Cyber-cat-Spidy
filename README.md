@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=19&pause=1000&color=00FFE4&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=40&lines=Android+Developer+%7C+UI/UX+%7C;" />
 </p>
 
----
+
 
 ## 💡 About Me
 I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **Cybersecurity Enthusiast** building impactful and secure digital experiences.
@@ -55,7 +55,7 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
+
 
 ## 🌟 Featured Projects
 
@@ -65,15 +65,13 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 - 🌐 [Portfolio Website](https://chatbot-info-by-monkey.vercel.app/) – Sleek skills showcase
 - 📖 [Wiki Clone](https://monkey-wikipedia-clone-advanced.vercel.app/) – Simple Wikipedia UI
 
----
+
 
 ## 📊 GitHub Stats & Activity
 
 ### Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=monkey9-Cyber-cat-Spidy&theme=monokai)
 
-### Streak Stats
-<img src="https://streak-stats.demolab.com/?user=monkey9-Cyber-cat-Spidy" alt="GitHub Streak" />
 
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=monkey9-Cyber-cat-Spidy&theme=tokyo-night)
@@ -82,7 +80,7 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 <img src="https://github-readme-stats.vercel.app/api?username=monkey9-Cyber-cat-Spidy&theme=tokyonight&show_icons=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey9-Cyber-cat-Spidy&layout=compact&langs_count=10&theme=tokyonight" width="48%" />
 
----
+
 
 ## 🔗 Connect With Me
 
