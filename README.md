@@ -96,9 +96,8 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 
 ![Followers](https://img.shields.io/github/followers/monkey9-Cyber-cat-Spidy?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/monkey9-Cyber-cat-Spidy?style=social)
-![Repos](https://img.shields.io/github/repos/monkey9-Cyber-cat-Spidy)
+<img src="https://github-readme-stats.vercel.app/api?username=monkey9-Cyber-cat-Spidy&show_icons=true" alt="GitHub stats" />
 
----
 
 ## 🔗 QR Code to My Portfolio
 
