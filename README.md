@@ -73,7 +73,7 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 ![Trophies](https://github-profile-trophy.vercel.app/?username=monkey9-Cyber-cat-Spidy&theme=monokai)
 
 ### Streak Stats
-![Streak](https://streak-stats.demolab.com?user=monkey9-Cyber-cat-Spidy&theme=tokyonight)
+<img src="https://streak-stats.demolab.com/?user=monkey9-Cyber-cat-Spidy" alt="GitHub Streak" />
 
 ### Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=monkey9-Cyber-cat-Spidy&theme=tokyo-night)
@@ -96,7 +96,6 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 
 ![Followers](https://img.shields.io/github/followers/monkey9-Cyber-cat-Spidy?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/monkey9-Cyber-cat-Spidy?style=social)
-<img src="https://github-readme-stats.vercel.app/api?username=monkey9-Cyber-cat-Spidy&show_icons=true" alt="GitHub stats" />
 
 
 ## 🔗 QR Code to My Portfolio
