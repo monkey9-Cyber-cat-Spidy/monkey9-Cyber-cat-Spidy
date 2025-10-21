@@ -23,6 +23,47 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 
 ---
 
+
+## 🚀 **What I'm Up To**
+
+<table>
+<tr>
+<td width="50%">
+
+🔭 **Currently working on**
+
+> Explaining to my parents that "my gaming laptop" is not a waste of money.
+
+🌱 **Learning**
+
+> Python, AI, and how to not cry every time a model overfits.
+
+👯 **Looking to collaborate on**
+
+> Apps that serve no real purpose but look absolutely stunning with Tailwind.
+
+</td>
+<td width="50%">
+
+🤝 **Seeking opportunities in**
+
+> Internships or jobs where I can build, break, fix, and pretend it was intentional.
+
+💬 **Ask me about**
+
+> How to turn “404: Sleep Not Found” into a functional React component.
+
+⚡ **Fun fact**
+
+> My laptop fans are louder than the applause I get from finishing some task on time.
+
+</td>
+</tr>
+</table>
+
+---
+
+
 ## 🛠️ Tech Stack
 
 ### Languages
