@@ -173,16 +173,6 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 ### Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=monkey9-Cyber-cat-Spidy&theme=monokai)
 
-
-### Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=monkey9-Cyber-cat-Spidy&theme=tokyo-night)
-
-### Stats & Languages
-<img src="https://github-readme-stats.vercel.app/api?username=monkey9-Cyber-cat-Spidy&theme=tokyonight&show_icons=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey9-Cyber-cat-Spidy&layout=compact&langs_count=10&theme=tokyonight" width="48%" />
-
-
-
 ## 🔗 Connect With Me
 
 ---
