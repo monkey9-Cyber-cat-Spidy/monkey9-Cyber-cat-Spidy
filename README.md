@@ -84,9 +84,25 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kvsmanikanta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/monkey9-Cyber-cat-Spidy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://chatbot-info-by-monkey.vercel.app/)
+---
+
+<div align="center">
+  
+<p align="center">
+  <a href="https://www.instagram.com/not_even_monkey">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/kvsmanikanta">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Manikanta3010/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://chatbot-info-by-monkey.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+</div>
 
 ---
 
