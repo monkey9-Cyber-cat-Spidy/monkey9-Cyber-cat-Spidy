@@ -1,4 +1,13 @@
-# 🚀 Kuncham Venkata Satya Manikanta
+
+<div align="center">
+
+# Hey there, I'm **Kuncham Venkata Satya Manikanta**
+
+### _A passionate human being crafting digital experiences..._
+
+---
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -96,13 +105,64 @@ I’m **Kuncham Venkata Satya Manikanta**, a passionate **Web Developer** and **
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
+---
 
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### **Languages my code Speak**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=monkey9-Cyber-cat-Spidy&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+
+</td>
+<td width="50%" align="center">
+
+### **Proof I know DSA**
+
+<img src="https://leetcard.jacoblin.cool/Manikanta3010?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Stats" />
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### **Journey of Making REPOs**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monkey9-Cyber-cat-Spidy&theme=nord_bright" alt="GitHub Profile Summary" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+### **Contribution Streak**
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=monkey9-Cyber-cat-Spidy&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</td>
+<td width="50%" align="center">
+
+### **Activity Graph**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=monkey9-Cyber-cat-Spidy&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" />
+
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 ## 🌟 Featured Projects
 
 - 🚀 [Web-Based SQL Query Builder](#) – Build SQL visually (React + Tailwind)
-- 🏋️ [Fitness Training Web App](https://solo-leveling-trainer-level-up-app.vercel.app/) – Inspired by Solo Leveling
-- 🎮 [Guess the Number Game](#) – Multiplayer + Leaderboard
+- 📖 [Resume Builder v5](https://resume-builder-5-fawn.vercel.app/) – User stats and authentication 
+- 📖 [Resume Builder v2](https://resume-builder-2-three.vercel.app/) – User stats and Friendly design
 - 🌐 [Portfolio Website](https://chatbot-info-by-monkey.vercel.app/) – Sleek skills showcase
 - 📖 [Wiki Clone](https://monkey-wikipedia-clone-advanced.vercel.app/) – Simple Wikipedia UI
 
