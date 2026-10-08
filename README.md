@@ -1,70 +1,102 @@
-<h1 align="center">Kuncham Venkata Satya Manikanta</h1>
+<div align="center">
 
-<p align="center"><strong>Full-Stack Developer · Co-Founder at Nilezo Technologies · Vizianagaram, India</strong></p>
+# Kuncham Venkata Satya Manikanta
 
-<p align="center"><a href="https://kvsmanikanta.online/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Building+web+products+and+reliable+APIs;MERN+and+Python+development;Secure+backend+systems+and+cloud+deployments" alt="Building web products, reliable APIs, and secure backend systems" /></a></p>
+### Full-Stack Developer · Co-Founder at Nilezo Technologies
 
-<p align="center"><a href="https://kvsmanikanta.online/">Portfolio</a> · <a href="https://www.linkedin.com/in/kvsmanikanta/">LinkedIn</a> · <a href="https://github.com/monkey9-Cyber-cat-Spidy">GitHub</a> · <a href="https://leetcode.com/u/Manikanta3010/">LeetCode</a> · <a href="mailto:mk1343093@gmail.com">Email</a></p>
+<a href="https://kvsmanikanta.online/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=700&color=22B8CF&center=true&vCenter=true&width=800&height=45&lines=I+build+useful+web+products;Full-stack+with+JavaScript+%26+Python;APIs%2C+databases%2C+and+reliable+systems;Building+at+Nilezo+Technologies" alt="Animated introduction: web products, full-stack JavaScript and Python, APIs and Nilezo Technologies" /></a>
 
-## About
+[Portfolio](https://kvsmanikanta.online/) · [LinkedIn](https://www.linkedin.com/in/kvsmanikanta/) · [GitHub](https://github.com/monkey9-Cyber-cat-Spidy) · [LeetCode](https://leetcode.com/u/Manikanta3010/) · [Email](mailto:mk1343093@gmail.com)
 
-I’m a full-stack developer and co-founder at [Nilezo Technologies](https://nilezo-technologies.in/), based in Vizianagaram, Andhra Pradesh, India. I build web applications, APIs, and backend services with a focus on clear architecture, security, and reliable data flows.
+![Profile views](https://komarev.com/ghpvc/?username=monkey9-Cyber-cat-Spidy&style=flat-square&color=22b8cf)
 
-I’m completing a B.Sc. in Computer Science at Maharajah’s Autonomous College, affiliated with Andhra University. My projects span the JavaScript ecosystem, Python web development, databases, and cloud tooling.
+</div>
 
-- **Current role:** Co-Founder and Full-Stack Developer at Nilezo Technologies
-- **Core focus:** MERN stack, Node.js APIs, Python web services, PostgreSQL, and application security
-- **Education:** B.Sc. Computer Science, 2023–2026
-- **Writing:** Technical notes through [Rise of Rough (ROR)](https://www.linkedin.com/in/kvsmanikanta/)
+---
 
-## Technical Skills
+## About me
 
-- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS
-- **Backend:** Node.js, Express.js, Python, Flask, FastAPI, REST APIs, GraphQL, WebSockets
-- **Databases:** PostgreSQL, MongoDB, MySQL, SQLite, Redis, Supabase, Firebase
-- **Cloud and DevOps:** AWS, Docker, Linux, Git, Kafka
-- **Security:** JWT, OAuth2, row-level security, CORS, input validation, secure coding
-- **Tools:** Postman, VS Code, Figma
+I’m a developer and co-founder at [Nilezo Technologies](https://nilezo-technologies.in/), based in Andhra Pradesh, India. I enjoy taking an idea from interface to backend: shaping the user experience, building APIs, connecting data, and making the whole thing reliable.
 
-## Featured Projects
+- **Building:** web and mobile products, SaaS, and digital services at Nilezo
+- **I work with:** JavaScript/TypeScript, React, Node.js, and Python
+- **Interested in:** product engineering, backend architecture, application security, and cloud deployment
+- **Writing & community:** I share engineering ideas through [Rise of Rough (ROR)](https://www.linkedin.com/in/kvsmanikanta/)
+- **Portfolio:** [kvsmanikanta.online](https://kvsmanikanta.online/)
+
+## Tech I use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,fastapi,flask,postgres,mongodb,mysql,redis,supabase,firebase,aws,docker,linux,git,github&perline=8" alt="Technology icons for frontend, backend, databases, cloud and developer tools" />
+
+</div>
+
+**Frontend** · HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
+**Backend** · Node.js, Express, Python, Flask, FastAPI, REST, GraphQL, WebSockets  
+**Data & infrastructure** · PostgreSQL, MongoDB, MySQL, Redis, Supabase, Firebase, AWS, Docker, Linux, Kafka  
+**Security** · JWT, OAuth2, role-based access control, row-level security, validation
+
+## Selected projects
 
 ### [Distributed Rate Limiter](https://github.com/monkey9-Cyber-cat-Spidy/rate-limiter)
-Redis-backed token-bucket rate limiting with a sliding-window fallback for distributed services. **Stack:** Node.js, TypeScript, Redis, Docker.
+A Redis-backed token bucket with a sliding-window fallback for distributed services. Built to handle burst traffic while keeping rate-limit decisions fast across nodes.  
+**Node.js** · **TypeScript** · **Redis** · **Docker**
 
 ### [Auth Microservice](https://github.com/monkey9-Cyber-cat-Spidy/auth-service)
-JWT and refresh-token authentication, OAuth2 social login, role-based access control, session management, and audit logging. **Stack:** Python, FastAPI, PostgreSQL, Redis.
+Authentication API with JWT and refresh tokens, OAuth2 social login, role-based access control, session management, and audit logging.  
+**Python** · **FastAPI** · **PostgreSQL** · **Redis**
 
 ### [Real-Time Analytics Pipeline](https://github.com/monkey9-Cyber-cat-Spidy/analytics-pipeline)
-Event ingestion and streaming with PostgreSQL analytics queries and Redis dashboard aggregations. **Stack:** Kafka, Python, PostgreSQL, Redis, Docker.
+Event ingestion and streaming pipeline that combines Kafka, PostgreSQL analytics queries, and Redis-powered dashboard aggregations.  
+**Kafka** · **Python** · **PostgreSQL** · **Redis** · **Docker**
 
 ### [GraphQL API Gateway](https://github.com/monkey9-Cyber-cat-Spidy/graphql-gateway)
-Federated GraphQL gateway with DataLoader for N+1 query prevention, persisted queries, and schema versioning. **Stack:** Node.js, GraphQL, PostgreSQL, Redis.
+Federated gateway for combining services, with DataLoader to reduce N+1 queries, persisted queries, and schema versioning.  
+**Node.js** · **GraphQL** · **PostgreSQL** · **Redis**
 
 ### [File Processing Service](https://github.com/monkey9-Cyber-cat-Spidy/file-processor)
-Asynchronous file upload, transformation, and delivery using cloud storage, a job queue, and serverless processing. **Stack:** Node.js, AWS S3, SQS, Lambda.
+Asynchronous file upload and processing flow using object storage, queues, and serverless workers.  
+**Node.js** · **AWS S3** · **SQS** · **Lambda**
+
+## Nilezo Technologies
+
+At [Nilezo Technologies](https://nilezo-technologies.in/), I help build web and mobile products, SaaS applications, and digital services. My work brings together product thinking and hands-on full-stack development—from frontend experiences to backend APIs and data systems.
 
 ## Experience
 
-**Co-Founder and Full-Stack Developer · [Nilezo Technologies](https://nilezo-technologies.in/)**  
-Building web and mobile products, SaaS applications, and digital services with a focus on product execution and scalable implementation.
+**Co-Founder & Full-Stack Developer · Nilezo Technologies**  
+Building and shipping digital products with a focus on useful features, maintainable implementation, and dependable delivery.
 
 **Full-Stack Developer Intern · Clientura**  
-Built Node.js and Express APIs, designed MongoDB and PostgreSQL schemas, integrated third-party services, and added authentication and request-validation middleware.
+Worked on Node.js and Express APIs, MongoDB and PostgreSQL data models, third-party integrations, authentication, and request validation.
 
-## Writing and Community
+## Writing & community
 
-I write about backend design, SQL optimization, API architecture, and the practical use of AI in software development. I also started **Rise of Rough (ROR)**, a community for sharing engineering ideas and technical articles. Find recent writing on [LinkedIn](https://www.linkedin.com/in/kvsmanikanta/).
+I write about backend design, SQL optimization, API architecture, and practical uses of AI in software development. I also started **Rise of Rough (ROR)** to share engineering ideas and technical articles. Find me on [LinkedIn](https://www.linkedin.com/in/kvsmanikanta/).
 
-## GitHub Activity
+## GitHub activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monkey9-Cyber-cat-Spidy/monkey9-Cyber-cat-Spidy/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monkey9-Cyber-cat-Spidy/monkey9-Cyber-cat-Spidy/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated GitHub contribution graph" src="https://raw.githubusercontent.com/monkey9-Cyber-cat-Spidy/monkey9-Cyber-cat-Spidy/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
 
-<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=monkey9-Cyber-cat-Spidy&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey9-Cyber-cat-Spidy&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" /></p>
+<a href="https://github.com/monkey9-Cyber-cat-Spidy"><img src="https://github-profile-trophy.vercel.app/?username=monkey9-Cyber-cat-Spidy&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub achievement trophies" /></a>
 
-## Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=monkey9-Cyber-cat-Spidy&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey9-Cyber-cat-Spidy&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
 
-For software development, product engineering, or collaboration, connect through [LinkedIn](https://www.linkedin.com/in/kvsmanikanta/) or [email](mailto:mk1343093@gmail.com). Explore my work at **[kvsmanikanta.online](https://kvsmanikanta.online/)**.
+<img src="https://streak-stats.demolab.com?user=monkey9-Cyber-cat-Spidy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+<img src="https://raw.githubusercontent.com/monkey9-Cyber-cat-Spidy/monkey9-Cyber-cat-Spidy/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let’s build something useful.
+
+Open to connecting about full-stack development, product engineering, and collaborations.  
+[Portfolio](https://kvsmanikanta.online/) · [LinkedIn](https://www.linkedin.com/in/kvsmanikanta/) · [Email me](mailto:mk1343093@gmail.com)
+
+</div>
